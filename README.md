@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 GitHubをはじめました！
 
-<!--
-**kote-KTP/kote-KTP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+プログラミングや興味のある技術について載せて行こうかと思います。
 
-Here are some ideas to get you started:
+## 🎯 記載予定 / 興味のあることなど。
+- 🐍 Python
+- 🌐 Webサイト
+- 🤖 AIツールの使い方
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ スキル・ツール
+- HTML / CSS (学習中)
+- VS Code (エディタ)
+
+## 📫 リンク
+- [https://neon-citrus-250330.netlify.app/]
