@@ -11,7 +11,5 @@
 - HTML / CSS (学習中)
 - VS Code (エディタ)
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=kote-KTP&show_icons=true&theme=radical)
-
 ## 📫 リンク
 - [https://neon-citrus-250330.netlify.app/]
